@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SharedLibrary.GenericInterfaces/1.0.0": {
+        "runtime": {
+          "SharedLibrary.GenericInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharedLibrary.GenericInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
