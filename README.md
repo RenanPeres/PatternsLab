@@ -1,1 +1,1 @@
-# SoftwarePatternsLab
+# PatternsLab
