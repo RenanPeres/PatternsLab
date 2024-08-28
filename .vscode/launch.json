@@ -5,10 +5,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "C#: DummyPorject.Worker Debug",
+      "name": "DummyPorject.Worker",
       "type": "coreclr",
       "request": "launch",
-      "preLaunchTask": "build",
+      "preLaunchTask": "build_DummyPorject.Worker",
       "program": "${workspaceFolder}/DummyProject/DummyProject.Worker/bin/Debug/net8.0/DummyProject.Worker.dll",
       "args": [],
       "cwd": "${workspaceFolder}",
@@ -20,6 +20,32 @@
       "launchBrowser": {
         "enabled": false
       }
+    },
+    {
+      "name": "DummyPorject.Api",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build_DummyPorject.Api",
+      "program": "${workspaceFolder}/DummyProject/DummyProject.Api/bin/Debug/net8.0/DummyProject.Api.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+      },
+      "launchBrowser": {
+        "enabled": true,
+        "args": "http://localhost:5000",
+        "linux": {
+          "command": "xdg-open",
+          "args": "http://localhost:5000"
+        }
+      },
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "console": "internalConsole"
     }
   ]
 }

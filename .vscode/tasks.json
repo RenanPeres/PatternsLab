@@ -2,12 +2,22 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-      "label": "build",
+      "label": "build_DummyPorject.Worker",
       "command": "dotnet",
       "type": "shell",
       "args": [
         "build",
         "${workspaceFolder}/DummyProject/DummyProject.Worker/DummyProject.Worker.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "build_DummyPorject.Api",
+      "command": "dotnet",
+      "type": "shell",
+      "args": [
+        "build",
+        "${workspaceFolder}/DummyProject/DummyProject.Api/DummyProject.Api.csproj"
       ],
       "problemMatcher": "$msCompile"
     }
