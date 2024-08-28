@@ -1,0 +1,15 @@
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/bin/Debug/net8.0/DummyProject.Worker
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/bin/Debug/net8.0/DummyProject.Worker.deps.json
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/bin/Debug/net8.0/DummyProject.Worker.runtimeconfig.json
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/bin/Debug/net8.0/DummyProject.Worker.dll
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/bin/Debug/net8.0/DummyProject.Worker.pdb
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/DummyProject.Worker.GeneratedMSBuildEditorConfig.editorconfig
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/DummyProject.Worker.AssemblyInfoInputs.cache
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/DummyProject.Worker.AssemblyInfo.cs
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/DummyProject.Worker.csproj.CoreCompileInputs.cache
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/DummyProject.Worker.sourcelink.json
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/DummyProject.Worker.dll
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/refint/DummyProject.Worker.dll
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/DummyProject.Worker.pdb
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/DummyProject.Worker.genruntimeconfig.cache
+/home/tango/Área de Trabalho/Repo/PatternsLab/DummyProject/DummyProject.Worker/obj/Debug/net8.0/ref/DummyProject.Worker.dll
